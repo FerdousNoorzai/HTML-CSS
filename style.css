@@ -20,9 +20,9 @@ h2{
     padding: 5px;
 }
 .content{
-    min-width: 60vw;
+    width: 60vw;
     max-width: 80vw;
-    min-height: 75vh;
+    height: auto;
     color: whitesmoke;
     background-color: rgb(124, 8, 232);
     margin-left: 5%;

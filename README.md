@@ -12,3 +12,7 @@ This website is being hosted by the Github and it has been solely created using 
     a href = "file_path" download = "file_name"
 3. For designing parargaph with border: 
     .yellow { border-left: 7px solid goldenrod; color: rgb(237, 237, 71); padding-left: 20px;}
+
+
+# Sample iamge of the website 
+![Sample of the website](<Sample of the website.png>)
