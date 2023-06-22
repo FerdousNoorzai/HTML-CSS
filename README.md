@@ -14,5 +14,5 @@ This website is being hosted by the Github and it has been solely created using 
     .yellow { border-left: 7px solid goldenrod; color: rgb(237, 237, 71); padding-left: 20px;}
 
 
-# Sample iamge of the website 
+# Sample image of the website 
 ![Sample of the website](<Sample of the website.png>)
